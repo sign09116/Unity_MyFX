@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/test_partical/Demo/Meteor.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
